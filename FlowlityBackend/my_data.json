@@ -1,0 +1,296 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Desktop ITG56",
+        "date": "15-11-2019",
+        "inventory_level": 25,
+        "color": "rgba(75,192,192,1)"
+    },
+    {
+        "product_id": 1,
+        "product_name": "Desktop ITG56",
+        "date": "16-11-2019",
+        "inventory_level": 22,
+        "color": "rgba(75,192,192,1)"
+    },
+    {
+        "product_id": 1,
+        "product_name": "Desktop ITG56",
+        "date": "17-11-2019",
+        "inventory_level": 27,
+        "color": "rgba(75,192,192,1)"
+    },
+    {
+        "product_id": 1,
+        "product_name": "Desktop ITG56",
+        "date": "18-11-2019",
+        "inventory_level": 20,
+        "color": "rgba(75,192,192,1)"
+    },
+    {
+        "product_id": 1,
+        "product_name": "Desktop ITG56",
+        "date": "19-11-2019",
+        "inventory_level": 15,
+        "color": "rgba(75,192,192,1)"
+    },
+    {
+        "product_id": 1,
+        "product_name": "Desktop ITG56",
+        "date": "20-11-2019",
+        "inventory_level": 17,
+        "color": "rgba(75,192,192,1)"
+    },
+    {
+        "product_id": 2,
+        "product_name": "Mouse X66",
+        "date": "15-11-2019",
+        "inventory_level": 13,
+        "color": "rgba(255,101,80,1)"
+    },
+    {
+        "product_id": 2,
+        "product_name": "Mouse X66",
+        "date": "16-11-2019",
+        "inventory_level": 27,
+        "color": "rgba(255,101,80,1)"
+    },
+    {
+        "product_id": 2,
+        "product_name": "Mouse X66",
+        "date": "17-11-2019",
+        "inventory_level": 24,
+        "color": "rgba(255,101,80,1)"
+    },
+    {
+        "product_id": 2,
+        "product_name": "Mouse X66",
+        "date": "18-11-2019",
+        "inventory_level": 19,
+        "color": "rgba(255,101,80,1)"
+    },
+    {
+        "product_id": 2,
+        "product_name": "Mouse X66",
+        "date": "19-11-2019",
+        "inventory_level": 20,
+        "color": "rgba(255,101,80,1)"
+    },
+    {
+        "product_id": 2,
+        "product_name": "Mouse X66",
+        "date": "20-11-2019",
+        "inventory_level": 25,
+        "color": "rgba(255,101,80,1)"
+    },
+    {
+        "product_id": 3,
+        "product_name": "Keyboard F32D",
+        "date": "15-11-2019",
+        "inventory_level": 20,
+        "color": "rgba(255,0,191,1)"
+    },
+    {
+        "product_id": 3,
+        "product_name": "Keyboard F32D",
+        "date": "16-11-2019",
+        "inventory_level": 17,
+        "color": "rgba(255,0,191,1)"
+    },
+    {
+        "product_id": 3,
+        "product_name": "Keyboard F32D",
+        "date": "17-11-2019",
+        "inventory_level": 25,
+        "color": "rgba(255,0,191,1)"
+    },
+    {
+        "product_id": 3,
+        "product_name": "Keyboard F32D",
+        "date": "18-11-2019",
+        "inventory_level": 30,
+        "color": "rgba(255,0,191,1)"
+    },
+    {
+        "product_id": 3,
+        "product_name": "Keyboard F32D",
+        "date": "19-11-2019",
+        "inventory_level": 35,
+        "color": "rgba(255,0,191,1)"
+    },
+    {
+        "product_id": 3,
+        "product_name": "Keyboard F32D",
+        "date": "20-11-2019",
+        "inventory_level": 30,
+        "color": "rgba(255,0,191,1)"
+    },
+    {
+        "product_id": 4,
+        "product_name": "Webcam HG5",
+        "date": "15-11-2019",
+        "inventory_level": 15,
+        "color": "rgba(159,182,240,1)"
+    },
+    {
+        "product_id": 4,
+        "product_name": "Webcam HG5",
+        "date": "16-11-2019",
+        "inventory_level": 13,
+        "color": "rgba(159,182,240,1)"
+    },
+    {
+        "product_id": 4,
+        "product_name": "Webcam HG5",
+        "date": "17-11-2019",
+        "inventory_level": 18,
+        "color": "rgba(159,182,240,1)"
+    },
+    {
+        "product_id": 4,
+        "product_name": "Webcam HG5",
+        "date": "18-11-2019",
+        "inventory_level": 26,
+        "color": "rgba(159,182,240,1)"
+    },
+    {
+        "product_id": 4,
+        "product_name": "Webcam HG5",
+        "date": "19-11-2019",
+        "inventory_level": 35,
+        "color": "rgba(159,182,240,1)"
+    },
+    {
+        "product_id": 4,
+        "product_name": "Webcam HG5",
+        "date": "20-11-2019",
+        "inventory_level": 31,
+        "color": "rgba(159,182,240,1)"
+    },
+    {
+        "product_id": 5,
+        "product_name": "Microphone D-Plus",
+        "date": "15-11-2019",
+        "inventory_level": 15,
+        "color": "rgba(21,182,240,1)"
+    },
+    {
+        "product_id": 5,
+        "product_name": "Microphone D-Plus",
+        "date": "16-11-2019",
+        "inventory_level": 13,
+        "color": "rgba(21,182,240,1)"
+    },
+    {
+        "product_id": 5,
+        "product_name": "Microphone D-Plus",
+        "date": "17-11-2019",
+        "inventory_level": 20,
+        "color": "rgba(21,182,240,1)"
+    },
+    {
+        "product_id": 5,
+        "product_name": "Microphone D-Plus",
+        "date": "18-11-2019",
+        "inventory_level": 18,
+        "color": "rgba(21,182,240,1)"
+    },
+    {
+        "product_id": 5,
+        "product_name": "Microphone D-Plus",
+        "date": "19-11-2019",
+        "inventory_level": 24,
+        "color": "rgba(21,182,240,1)"
+    },
+    {
+        "product_id": 5,
+        "product_name": "Microphone D-Plus",
+        "date": "20-11-2019",
+        "inventory_level": 29,
+        "color": "rgba(21,182,240,1)"
+    },
+    {
+        "product_id": 6,
+        "product_name": "Touchpad FX45",
+        "date": "15-11-2019",
+        "inventory_level": 39,
+        "color": "rgba(63,0,0,1)"
+    },
+    {
+        "product_id": 6,
+        "product_name": "Touchpad FX45",
+        "date": "16-11-2019",
+        "inventory_level": 33,
+        "color": "rgba(63,0,0,1)"
+    },
+    {
+        "product_id": 6,
+        "product_name": "Touchpad FX45",
+        "date": "17-11-2019",
+        "inventory_level": 31,
+        "color": "rgba(63,0,0,1)"
+    },
+    {
+        "product_id": 6,
+        "product_name": "Microphone D-Plus",
+        "date": "18-11-2019",
+        "inventory_level": 36,
+        "color": "rgba(63,0,0,1)"
+    },
+    {
+        "product_id": 6,
+        "product_name": "Touchpad FX45",
+        "date": "19-11-2019",
+        "inventory_level": 32,
+        "color": "rgba(63,0,0,1)"
+    },
+    {
+        "product_id": 6,
+        "product_name": "Touchpad FX45",
+        "date": "20-11-2019",
+        "inventory_level": 28,
+        "color": "rgba(63,0,0,1)"
+    },
+    {
+        "product_id": 7,
+        "product_name": "Sticker Linux",
+        "date": "15-11-2019",
+        "inventory_level": 10,
+        "color": "rgba(63,0,191,1)"
+    },
+    {
+        "product_id": 7,
+        "product_name": "Sticker Linux",
+        "date": "16-11-2019",
+        "inventory_level": 15,
+        "color": "rgba(63,0,191,1)"
+    },
+    {
+        "product_id": 7,
+        "product_name": "Sticker Linux",
+        "date": "17-11-2019",
+        "inventory_level": 19,
+        "color": "rgba(63,0,191,1)"
+    },
+    {
+        "product_id": 7,
+        "product_name": "Sticker Linux",
+        "date": "18-11-2019",
+        "inventory_level": 10,
+        "color": "rgba(63,0,191,1)"
+    },
+    {
+        "product_id": 7,
+        "product_name": "Sticker Linux",
+        "date": "19-11-2019",
+        "inventory_level": 24,
+        "color": "rgba(63,0,191,1)"
+    },
+    {
+        "product_id": 7,
+        "product_name": "Sticker Linux",
+        "date": "20-11-2019",
+        "inventory_level": 29,
+        "color": "rgba(63,0,191,1)"
+    }
+]
